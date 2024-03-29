@@ -6,7 +6,7 @@ from math import floor
 
 def levels_2_12(level):
     times = level - 2
-    return floor(673 * ((1 + 2.5 / 100) ** times))
+    return floor(673 * (pow((1 + 2.5 / 100), times)))
 
 
 def levels_13_onwards(level):
