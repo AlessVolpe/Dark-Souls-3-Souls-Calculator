@@ -35,7 +35,6 @@ if __name__ == '__main__':
     if desired_level < current_level:
         quit("Desired level can't be less than current level")
 
-    print("The souls needed to reach level %d from level %d is %d" % (current_level,
-                                                                      desired_level,
-                                                                      souls_needed(current_level, desired_level)))
+    souls = souls_needed(current_level, desired_level)
+    print(f"The souls needed to reach level {current_level} from level {desired_level} is {souls:,}")
     quit(0)
