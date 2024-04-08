@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ae2e56-0c5e-4670-8a3e-2c85da1027cd" name="Changes" comment="Update README.md and changed exponentiation from operator to method">
+    <list default="true" id="f9ae2e56-0c5e-4670-8a3e-2c85da1027cd" name="Changes" comment="Changed string formatting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,8 @@
       <updated>1711666951497</updated>
       <workItem from="1711666962752" duration="7478000" />
       <workItem from="1711887852785" duration="617000" />
-      <workItem from="1711969867962" duration="166000" />
+      <workItem from="1711969867962" duration="527000" />
+      <workItem from="1712070511352" duration="2473000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -126,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711673910135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changed string formatting">
+      <option name="closed" value="true" />
+      <created>1711970245694</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711970245694</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,9 +154,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Update README.md and changed exponentiation from operator to method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md and changed exponentiation from operator to method" />
+    <MESSAGE value="Changed string formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed string formatting" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/darksouls3_soulcalc$main.coverage" NAME="main Coverage Results" MODIFIED="1711969887048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/darksouls3_soulcalc$main.coverage" NAME="main Coverage Results" MODIFIED="1712074030138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
